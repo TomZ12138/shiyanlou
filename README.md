@@ -1,2 +1,2 @@
 # shiyanlou
-This perporties just fot test!
+This repositories just fot test!
